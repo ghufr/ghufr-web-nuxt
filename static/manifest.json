@@ -1,0 +1,12 @@
+{
+  "name": "Ghufr",
+  "short_name": "GHF",
+  "theme_color": "#2056e2",
+  "background_color": "#2056e2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
